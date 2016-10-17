@@ -1,0 +1,44 @@
+main {
+	padding: 30px;
+	font-size: 0;
+
+}
+.box {
+	border: 1px solid black;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+.upper {
+	display: inline-block;
+	height: 200px;
+
+}
+.inner-one {
+	background-color: green;
+	width: 50%;
+	
+}
+.inner-two {
+	background-color: blue;
+	width: 50%;
+}
+.lower {
+	display: inline-block;
+	height: 300px;
+}
+.inner-three {
+	background-color: grey;
+	width: 33.33%;
+}
+.inner-four {
+	background-color: black;
+	width: 33.33%;
+}
+.inner-five {
+	background-color: orange;
+	width: 33.33%;
+}
+p {
+	text-align: center;
+}
